@@ -47,8 +47,5 @@ class Color:
                 cls.E
                 )
 
-
-
-
 def randomArt():
-    return None
+    return "Wafw00f"
