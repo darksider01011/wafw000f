@@ -48,4 +48,4 @@ class Color:
                 )
 
 def randomArt():
-    return "Wafw00f"
+    pass
